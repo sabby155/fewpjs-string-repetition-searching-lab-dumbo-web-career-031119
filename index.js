@@ -6,5 +6,6 @@ function heyJude(verse) {
 
 
 function prohibitedLanguage() {
-  let ban = /candycorn|bru/;
+  let ban = /candycorn|brusselssprouts/;
+  
 }
