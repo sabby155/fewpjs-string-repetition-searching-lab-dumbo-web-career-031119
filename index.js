@@ -5,4 +5,6 @@ function heyJude(verse) {
 }
 
 
-function proh
+function prohibitedLanguage() {
+  
+}
