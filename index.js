@@ -5,7 +5,7 @@ function heyJude(verse) {
 }
 
 
-function prohibitedLanguage() {
+function prohibitedLanguage(candy) {
   let ban = /candycorn|brusselssprouts/;
-  
+  candy.search(ban)
 }
